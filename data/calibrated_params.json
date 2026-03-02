@@ -1,0 +1,16 @@
+{
+  "2022-23": {
+    "season": "2022-23",
+    "pace_mean": 99.0,
+    "pace_std": 4.0,
+    "shooting_variance_alpha": 15.0,
+    "shooting_variance_beta": 10.0,
+    "upset_factor_df": 3,
+    "upset_factor_scale": 5.0,
+    "home_court_advantage": 3.0,
+    "offensive_efficiency_mean": 1.12,
+    "offensive_efficiency_std": 0.05,
+    "calibration_error": 0.0,
+    "calibration_date": null
+  }
+}
