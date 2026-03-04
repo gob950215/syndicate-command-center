@@ -18,3 +18,7 @@ Output*.txt
 *.csv
 
 models/*.pkl
+
+PR_DESCRIPTION.md
+ISSUE_COMMENT.md
+issue-1-fix.patch
